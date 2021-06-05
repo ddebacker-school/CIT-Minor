@@ -10,7 +10,7 @@
 - Gained experience working with CLI commands
 - Gained experience writing and executing non-web server Node.js JavaScript
 
-### [Lab 3]()
+### [Lab 3](https://ddebacker-school.github.io/cit281-lab3/)
 - Practiced refactoring JavaScript
 - Practiced with Node.js
 
@@ -18,11 +18,11 @@
 - Gained experience using git via CLI and Visual Studio Code
 - Gained experience writing and executing non-web server Node.js JavaScript code
 
-### [Lab 4]()
+### [Lab 4](https://ddebacker-school.github.io/cit281-lab4/)
 - Created Fastify Node.js web server
 - Added git repo
 
-### [Lab 5]()
+### [Lab 5](https://ddebacker-school.github.io/cit281-lab5/)
 - Used Postman to test and modify servers
 
 # [Project 3](https://ddebacker-school.github.io/cit281-p3/)
@@ -39,18 +39,18 @@
 - Gained experience writing and executing Node.js REST API server
 - Gain experience working with JSON
 
-### [Lab 7]()
+### [Lab 7](https://ddebacker-school.github.io/cit281-lab7/)
 - Create your first GitHub repository
 - Updated and commited lab JavaScript file to practice with error handling
 
-### [Lab 8]()
+### [Lab 8](https://ddebacker-school.github.io/cit281-lab8/)
 - Practiced with fastify fetch package for JSON data
 
 # [Project 6](https://ddebacker-school.github.io/cit281-p6/)
 - Gained more experience creating and working with classes
 - Gained more experience debugging code
 
-### [Lab 9]()
+### [Lab 9](https://ddebacker-school.github.io/cit281-lab9/)
 -  Worked through Learning Lab course/repo within your GitHub account
 
 # [Project 7](https://ddebacker-school.github.io/cit281-p7/)
