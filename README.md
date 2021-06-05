@@ -14,7 +14,7 @@
 - Practiced refactoring JavaScript
 - Practiced with Node.js
 
-# Project 2
+# [Project 2](https://ddebacker-school.github.io/cit281-p2/)
 - Gained experience using git via CLI and Visual Studio Code
 - Gained experience writing and executing non-web server Node.js JavaScript code
 
