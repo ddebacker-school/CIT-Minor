@@ -1,4 +1,4 @@
-### Lab 1
+### [Lab 1](https://ddebacker-school.github.io/cit281-lab1/)
 - Created first Node.js server-side JavaScript file
 - Practiced terminal or shell commands
 
