@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+**Lab 1 goals and outcomes:**
+-Part 1: Install and setup your personal computer with the software tools required for this course
+-Part 2: Practice using software tools
+-Part 3: Practice terminal or shell commands
+-Part 4: Practice keyboard shortcuts
+-Part 5: Create your first Node.js server-side JavaScript file
 
-You can use the [editor on GitHub](https://github.com/ddebacker-school/CIT-Minor/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
