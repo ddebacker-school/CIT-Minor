@@ -1,11 +1,59 @@
-**Lab 1 goals and outcomes:**
-- Part 1: Install and setup your personal computer with the software tools required for this course
-- Part 2: Practice using software tools
-- Part 3: Practice terminal or shell commands
-- Part 4: Practice keyboard shortcuts
-- Part 5: Create your first Node.js server-side JavaScript file
+## Lab 1
+- Created first Node.js server-side JavaScript file
+- Practiced terminal or shell commands
 
+## Lab 2
+- Practiced CLI commands
+- Practiced git commands
 
+# Project 1 
+- Gained experience working with CLI commands
+- Gained experience writing and executing non-web server Node.js JavaScript
+
+## Lab 3
+- Practiced refactoring JavaScript
+- Practiced with Node.js
+
+# Project 2
+- Gained experience using git via CLI and Visual Studio Code
+- Gained experience writing and executing non-web server Node.js JavaScript code
+
+## Lab 4
+- Created Fastify Node.js web server
+- Added git repo
+
+## Lab 5
+- Used Postman to test and modify servers
+
+# Project 3
+- Gained experience writing and executing non-web server Node.js JavaScript code using VSCode
+- Practiced refactoring using modern JavaScript syntax
+- Practiced creating and using code modules
+
+## Lab 6
+- Joined GitHub and worked through Introduction to GitHub course
+- Created a digital book library using JavaScript classes
+
+# Project 4
+- Practiced using modern JavaScript syntax
+- Gained experience writing and executing Node.js REST API server
+- Gain experience working with JSON
+
+## Lab 7
+- Create your first GitHub repository
+- Updated and commited lab JavaScript file to practice with error handling
+
+## Lab 8
+- Practiced with fastify fetch package for JSON data
+
+# Project 6
+- Gained more experience creating and working with classes
+- Gained more experience debugging code
+
+## Lab 9
+-  Worked through Learning Lab course/repo within your GitHub account
+
+#
 
 ### Markdown
 
@@ -30,11 +78,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ddebacker-school/CIT-Minor/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
