@@ -6,7 +6,7 @@
 - Practiced CLI commands
 - Practiced git commands
 
-# Project 1 
+# [Project 1](https://ddebacker-school.github.io/cit281-p1/) 
 - Gained experience working with CLI commands
 - Gained experience writing and executing non-web server Node.js JavaScript
 
