@@ -2,7 +2,7 @@
 - Created first Node.js server-side JavaScript file
 - Practiced terminal or shell commands
 
-### Lab 2
+### [Lab 2](https://ddebacker-school.github.io/cit281-lab2/)
 - Practiced CLI commands
 - Practiced git commands
 
