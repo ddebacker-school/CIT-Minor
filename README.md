@@ -53,7 +53,8 @@
 ### Lab 9
 -  Worked through Learning Lab course/repo within your GitHub account
 
-
+# Project 7
+- Created a GitHub Page for the CIT minor
 
 ### Markdown
 
