@@ -46,14 +46,14 @@
 ### Lab 8
 - Practiced with fastify fetch package for JSON data
 
-# Project 6
+# [Project 6](https://ddebacker-school.github.io/cit281-p6/)
 - Gained more experience creating and working with classes
 - Gained more experience debugging code
 
 ### Lab 9
 -  Worked through Learning Lab course/repo within your GitHub account
 
-# Project 7
+# [Project 7](https://ddebacker-school.github.io/cit281-p7/)
 - Created a GitHub Page for the CIT minor
 
 ### Markdown
