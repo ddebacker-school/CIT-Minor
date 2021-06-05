@@ -25,7 +25,7 @@
 ### Lab 5
 - Used Postman to test and modify servers
 
-# Project 3
+# [Project 3](https://ddebacker-school.github.io/cit281-p3/)
 - Gained experience writing and executing non-web server Node.js JavaScript code using VSCode
 - Practiced refactoring using modern JavaScript syntax
 - Practiced creating and using code modules
@@ -34,7 +34,7 @@
 - Joined GitHub and worked through Introduction to GitHub course
 - Created a digital book library using JavaScript classes
 
-# Project 4
+# [Project 4](https://ddebacker-school.github.io/cit281-p4/)
 - Practiced using modern JavaScript syntax
 - Gained experience writing and executing Node.js REST API server
 - Gain experience working with JSON
